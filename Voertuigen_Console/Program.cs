@@ -11,9 +11,11 @@ namespace Voertuigen_Console
     {
         static void Main(string[] args)
         {
+
+
             Fiets _velo = new Fiets();
             Auto _wagen = new Auto();
-            //Voertuig _kar = new Voertuig();
+            //Voertuig _kar = new Voertuig()
 
             Console.WriteLine("Oefening op voertuigen");
             Console.WriteLine("geef uw merk in van uw auto");

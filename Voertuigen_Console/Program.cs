@@ -15,6 +15,7 @@ namespace Voertuigen_Console
             Auto _wagen = new Auto();
             //Voertuig _kar = new Voertuig();
 
+            Console.WriteLine("Oefening op voertuigen");
             Console.WriteLine("geef uw merk in van uw auto");
             string merk = Console.ReadLine();
 
